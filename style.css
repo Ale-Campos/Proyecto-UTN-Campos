@@ -1,8 +1,11 @@
 div {
-    border: 1px solid black;
+  border: 1px solid black;
 }
 
-
 p {
-    color: blue;
+  color: blue;
+}
+
+h2 {
+  color: red;
 }
